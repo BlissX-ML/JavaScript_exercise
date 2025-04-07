@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: rgb(255, 255, 239);
+    padding: 100px;
+    margin: 0 auto;
+}
+
+
+h1 {
+    display: block;
+    align-items: center;
+    text-align: center;
+    color:salmon;
+}
+
+h2 {
+    border: 1px solid grey;
+    width: fit-content;
+    margin:0 auto;
+    padding: 30px;
+    margin-top:20px;
+    align-items: center;
+    text-align: center;
+}
