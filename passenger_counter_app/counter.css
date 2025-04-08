@@ -6,14 +6,16 @@
 body {
     background-color: rgb(255, 255, 239);
     padding: 100px;
+}
+
+div {
+    align-items: center;
+    text-align: center;
     margin: 0 auto;
 }
 
-
 h1 {
     display: block;
-    align-items: center;
-    text-align: center;
     color:salmon;
 }
 
@@ -23,6 +25,19 @@ h2 {
     margin:0 auto;
     padding: 30px;
     margin-top:20px;
-    align-items: center;
-    text-align: center;
 }
+
+button {
+    background-color: darkred;
+    border-color: white;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    padding: 5px 10px;
+    color:white;
+    margin-top: 20px;
+}
+
+
