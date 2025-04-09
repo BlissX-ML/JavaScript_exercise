@@ -5,7 +5,7 @@
 
 body {
     background-color: rgb(255, 255, 239);
-    padding: 100px;
+    padding: 20px;
 }
 
 div {
@@ -40,4 +40,6 @@ button {
     margin-top: 20px;
 }
 
-
+p {
+  margin-top:1em;
+}
